@@ -1,0 +1,2 @@
+# decor
+A decor website.
